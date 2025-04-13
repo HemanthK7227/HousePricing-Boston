@@ -1,11 +1,11 @@
 # 📉 Linear Regression ML Implementation
 
-## 📌 Project Overview
+## Project Overview
 This project demonstrates the implementation of a Linear Regression model from scratch using Python. The goal is to understand how the model works internally by manually computing gradients and optimizing weights using gradient descent — without relying on machine learning libraries for training.
 
 ---
 
-## 🧠 Key Concepts
+## Key Concepts
 - Supervised Learning
 - Linear Regression theory
 - Loss Function (Mean Squared Error)
@@ -14,7 +14,7 @@ This project demonstrates the implementation of a Linear Regression model from s
 
 ---
 
-## 🔧 Technologies Used
+## Technologies Used
 - **Python**
 - **NumPy** – For vectorized computations
 - **Matplotlib** – For visualizations
@@ -22,7 +22,7 @@ This project demonstrates the implementation of a Linear Regression model from s
 
 ---
 
-## 📂 Notebook Summary
+## Notebook Summary
 - Loads and visualizes a dataset
 - Implements linear regression manually (no `scikit-learn`)
 - Performs training using gradient descent
